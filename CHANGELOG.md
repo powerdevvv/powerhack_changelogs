@@ -5,6 +5,7 @@
 - ChangeLog API
 - Console API
 - Notification
+- Clear Console Button
 
 ### Changed
 - Execution Method
