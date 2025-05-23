@@ -2,10 +2,11 @@
 
 ### Added
 - Main Menu
+- Clear Console Button
 - ChangeLog API
 - Console API
 - Notification
-- Clear Console Button
+
 
 ### Changed
 - Execution Method
