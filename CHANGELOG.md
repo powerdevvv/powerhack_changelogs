@@ -1,11 +1,16 @@
-## [1.0.0]
+## [CLOSED BETA 1]
 
 ### Added
-- test
-- test
+- Main Menu
+- ChangeLog API
+- Console API
+- Notification
 
 ### Changed
-- test
+- Execution Method
+- Attach Method
 
 ### Fixed
-- test
+- Fixed For Latest Game Update
+- Fixed Some issues
+- Fixed Some bugs
