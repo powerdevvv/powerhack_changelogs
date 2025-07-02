@@ -1,18 +1,10 @@
-## [CLOSED BETA 1]
+## [DEVELOPING STAGE]
 
 ### Added
-- Main Menu
-- Clear Console Button
-- ChangeLog API
-- Console API
-- Notification
-
+- test
 
 ### Changed
-- Execution Method
-- Attach Method
+- test
 
 ### Fixed
-- Fixed For Latest Game Update
-- Fixed Some issues
-- Fixed Some bugs
+- test
