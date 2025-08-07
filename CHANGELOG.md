@@ -1,16 +1,4 @@
-## [DEVELOPING STAGE]
+## [ALPHA]
 
 ### Added
-- test
-
-### Changed
-- test
-
-### Fixed
-- test
-
-### Removed
-- test
-
-### Security
-- test
+- Initial Release
